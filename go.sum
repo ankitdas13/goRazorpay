@@ -1,5 +1,7 @@
 github.com/ankitdas13/goRazorpay v0.0.1 h1:fT2tjYmwI0fzApxm94tUTsSxryVTE+IZkM/gi+nPu6I=
 github.com/ankitdas13/goRazorpay v0.0.1/go.mod h1:nA5YxTqOTog0HFGJK5Yuek5nYwy5WMQFtvy2ZC5BxbI=
+github.com/ankitdas13/goRazorpay v0.0.2 h1:KqcaDEAw3yeYCTH20cCgKZ2QcGYBhz3Smrvb3sfKCFc=
+github.com/ankitdas13/goRazorpay v0.0.2/go.mod h1:nA5YxTqOTog0HFGJK5Yuek5nYwy5WMQFtvy2ZC5BxbI=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c h1:qgOY6WgZOaTkIIMiVjBQcw93ERBE4m30iBm00nkL0i8=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
 rsc.io/quote/v3 v3.1.0 h1:9JKUTTIUgS6kzR9mK1YuGKv6Nl+DijDNIc0ghT58FaY=
